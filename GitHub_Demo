@@ -12,6 +12,12 @@ Testujeme lokální změny a propagaci online
 
 Testujeme merge
 
+<<<<<<< HEAD
 Testujeme konflikt.A merge z vetve features
+=======
+Testujeme konflikt.B 
+
+merge z vetve features
+>>>>>>> featureB
 
 Změna
